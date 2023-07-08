@@ -78,6 +78,8 @@ public class UserControllerTest extends BaseIntegrationTest {
 
     }
 
+
+
     @Test
     void getUserById() {
         try {
